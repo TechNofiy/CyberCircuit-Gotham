@@ -1,0 +1,11 @@
+# Build output
+CyberCircuitGotham.exe
+*.exe
+
+# Local workspace and cache data
+workspace.json
+court_geo_cache.json
+
+# Go build/test output
+*.test
+*.out
